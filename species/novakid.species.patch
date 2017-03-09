@@ -124,6 +124,11 @@
     "value": "20"
   },
   {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "vanilla"
+  },
+  {
     "op": "replace",
     "path": "/genders/1/facialMaskGroup",
     "value": "beardfemale"
@@ -202,5 +207,10 @@
     "op": "add",
     "path": "/genders/1/facialMask/-",
     "value": "15"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/facialMask/-",
+    "value": "vanilla"
   }
 ]
