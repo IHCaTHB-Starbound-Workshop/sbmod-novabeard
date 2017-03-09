@@ -9,169 +9,126 @@
     "value": true
   },
   {
-    "op": "remove",
-    "path": "/charGenTextLabels/4"
+    "op": "add",
+    "path": "/bodyColorAsFacialMaskSubColor",
+    "value": true
   },
   {
-    "op": "add",
-    "path": "/charGenTextLabels/5",
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
     "value": "Beard"
   },
   {
     "op": "replace",
-    "path": "/genders/0/facialHairGroup",
+    "path": "/genders/0/facialMaskGroup",
     "value": "beardmale"
   },
   {
-    "op": "remove",
-    "path": "/genders/0/facialHair/0"
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "1"
   },
   {
     "op": "add",
-    "path": "/genders/0/facialHair/-",
+    "path": "/genders/0/facialMask/-",
+    "value": "2"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "3"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "4"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "5"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "6"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "7"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "8"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "9"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "10"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "11"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "12"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "13"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "14"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "15"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "16"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "17"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "18"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
+    "value": "19"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/facialMask/-",
     "value": "20"
   },
   {
     "op": "replace",
-    "path": "/genders/0/facialMaskGroup",
-    "value": "brand"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "0"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "1"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "2"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "3"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "4"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "5"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "6"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "7"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "8"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "9"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "10"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "11"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "12"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "13"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "14"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "15"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "16"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "17"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "18"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/facialMask/-",
-    "value": "19"
-  },
-  {
-    "op": "replace",
-    "path": "/genders/1/facialHairGroup",
+    "path": "/genders/1/facialMaskGroup",
     "value": "beardfemale"
   },
   {
-    "op": "remove",
-    "path": "/genders/1/facialHair/0"
-  },
-  {
-    "op": "remove",
-    "path": "/genders/1/facialHair/15"
-  },
-  {
-    "op": "remove",
-    "path": "/genders/1/facialHair/15"
-  },
-  {
-    "op": "remove",
-    "path": "/genders/1/facialHair/15"
-  },
-  {
-    "op": "remove",
-    "path": "/genders/1/facialHair/15"
-  },
-  {
-    "op": "replace",
-    "path": "/genders/1/facialMaskGroup",
-    "value": "brand"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/facialMask/-",
-    "value": "0"
-  },
-  {
     "op": "add",
     "path": "/genders/1/facialMask/-",
     "value": "1"
@@ -245,25 +202,5 @@
     "op": "add",
     "path": "/genders/1/facialMask/-",
     "value": "15"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/facialMask/-",
-    "value": "16"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/facialMask/-",
-    "value": "17"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/facialMask/-",
-    "value": "18"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/facialMask/-",
-    "value": "19"
   }
 ]
