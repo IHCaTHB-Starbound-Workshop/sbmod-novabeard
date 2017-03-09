@@ -126,7 +126,7 @@
   {
     "op": "add",
     "path": "/genders/0/facialMask/-",
-    "value": "vanilla"
+    "value": ""
   },
   {
     "op": "replace",
@@ -211,6 +211,6 @@
   {
     "op": "add",
     "path": "/genders/1/facialMask/-",
-    "value": "vanilla"
+    "value": ""
   }
 ]
